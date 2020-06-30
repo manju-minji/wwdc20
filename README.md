@@ -1,5 +1,5 @@
 # Code with Piano
-__WWDC20 Swift Student Challenge Accepted Submission__
+## __WWDC20 Swift Student Challenge Accepted Submission__ ✨🥰👍
 
 ### Introduction
 
