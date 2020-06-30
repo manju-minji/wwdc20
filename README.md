@@ -5,7 +5,7 @@
 
 You can learn the basic concepts of function call, iteration, condition with playing the piano.
 
-It was made to help music lovers learn coding with fun.
+It helps to music lovers learn coding with fun.
 
 ![screenshot](https://github.com/manju-minji/wwdc20/blob/master/screenshot.jpeg?raw=true)
 
