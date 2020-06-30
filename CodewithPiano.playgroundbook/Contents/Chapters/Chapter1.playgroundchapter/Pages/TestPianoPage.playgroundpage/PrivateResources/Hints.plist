@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>If you want to play G.</string>
+		</dict>
+		<dict>
+			<key>FileReference</key>
+			<string>code.txt</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Then, enter the play() function in the &apos;tap to enter code&apos;.</string>
+		</dict>
+	</array>
+</dict>
+</plist>

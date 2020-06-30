@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>phrase1 - green</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>phrase2 - orange</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>phrase3 - pink</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>phrase4 - blue</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>phrase5 - purple</string>
+		</dict>
+	</array>
+</dict>
+</plist>

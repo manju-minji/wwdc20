@@ -1,0 +1,22 @@
+func play(){
+
+        var count = 0
+
+        while count < 3{
+               
+               //statement
+               
+               count = count + 1
+        }
+}
+
+//After first loop -> count = 1
+
+//After second loop -> count = 2
+
+//After third loop -> count = 3
+
+-> The repetition ends because it does not meet count  < 3.
+
+//So, in the end, the statement is repeated three times.
+
