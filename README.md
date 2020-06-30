@@ -8,4 +8,6 @@ You can learn the basic concepts of function call, iteration, condition with pla
 It helps to music lovers learn coding with fun.
 
 ![screenshot](https://github.com/manju-minji/wwdc20/blob/master/screenshot.jpeg?raw=true)
+![littelstar](https://github.com/manju-minji/wwdc20/blob/master/littlestar.jpeg?raw=true)
+![ginglebell](https://github.com/manju-minji/wwdc20/blob/master/ginglebell.jpeg?raw=true)
 
